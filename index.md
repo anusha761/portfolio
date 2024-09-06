@@ -24,7 +24,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/fraud_detection.git)
 
-#### Header 4
+#### Project 1
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
