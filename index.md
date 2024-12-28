@@ -12,19 +12,15 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Data Science Portfolio
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Exploratory Data Analysis
+
+#### Lending Club Case Study
+This project focuses on analyzing loan applications from Lending Club to identify factors contributing to loan defaults. By examining applicant profiles, my objectives included pinpointing key variables that signal default risk and developing actionable insights for better risk assessment, thus enhancing the Lending Club's ability to identify high-risk applicants and improve overall lending strategies.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/LendingClubCaseStudy)
 
 ## Machine Learning
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Fraud Detection
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/fraud_detection.git)
-
-#### Project 1
+### Bike Sharing Prediction
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
