@@ -1,30 +1,21 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Data Science Portfolio
 
 ## Exploratory Data Analysis
 
 #### Lending Club Case Study
-This project focuses on analyzing loan applications from Lending Club to identify factors contributing to loan defaults. By examining applicant profiles, my objectives included pinpointing key variables that signal default risk and developing actionable insights for better risk assessment, thus enhancing the Lending Club's ability to identify high-risk applicants and improve overall lending strategies.
+This project analyzes loan applications from Lending Club to identify factors contributing to loan defaults, focusing on key variables that signal default risk. The goal is to provide actionable insights for improving risk assessment and enhancing lending strategies.
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/LendingClubCaseStudy)
 
 ## Machine Learning
 
-### Bike Sharing Prediction
+#### Bike Sharing Prediction
+This project develops a predictive linear regression model to forecast shared bike demand for BoomBikes in the American market, analyzing key factors like weather, temperature, day of the week, and season. By leveraging historical usage data, the model aims to help BoomBikes adapt to changing customer needs post-pandemic.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/Bike_Sharing_Assignment)
 
 ##### Header 5
 
