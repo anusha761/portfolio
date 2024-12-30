@@ -13,9 +13,9 @@ This project analyzes loan applications from Lending Club to identify factors co
 ## Machine Learning
 
 #### Bike Sharing Prediction
-This project develops a predictive linear regression model to forecast shared bike demand for BoomBikes in the American market, analyzing key factors like weather, temperature, day of the week, and season. By leveraging historical usage data, the model aims to help BoomBikes adapt to changing customer needs post-pandemic.
+This project develops and compares several regression models namely - linear regression with RFE, VIF, stats model p values, Ridge Regression, Lasso Regression to forecast shared bike demand for BoomBikes in the American market, analyzing key factors like weather, temperature, day of the week, season etc. By leveraging historical usage data, the model aims to help BoomBikes adapt to changing customer needs post-pandemic period.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/Bike_Sharing_Assignment)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/Bike_Rent_Prediction)
 
 ##### Header 5
 
