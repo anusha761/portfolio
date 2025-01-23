@@ -3,19 +3,23 @@ layout: default
 ---
 # Data Science Portfolio
 
-## Exploratory Data Analysis
-
-#### Lending Club Case Study
-This project analyzes loan applications from Lending Club to identify factors contributing to loan defaults, focusing on key variables that signal default risk. The goal is to provide actionable insights for improving risk assessment and enhancing lending strategies.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/LendingClubCaseStudy)
-
 ## Machine Learning
 
 #### Bike Sharing Prediction
 This project develops and compares several regression models namely - linear regression with RFE, VIF, stats model p values, Ridge Regression, Lasso Regression to forecast shared bike demand for BoomBikes in the American market, analyzing key factors like weather, temperature, day of the week, season etc. By leveraging historical usage data, the model aims to help BoomBikes adapt to changing customer needs post-pandemic period.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/Bike_Rent_Prediction)
+
+#### Lending Club Case Study
+This project analyzes loan applications from Lending Club to identify factors contributing to loan defaults, focusing on key variables that signal default risk. The goal is to provide actionable insights for improving risk assessment and enhancing lending strategies.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/LendingClubCaseStudy)
+
+#### Generative AI - Using Large Language Models For Dialog Summarization
+This project leverages 2 approaches - prompt engineering and fine tuning involvong PEFT for training Flan T5 LLM to perform dialog summarization. Dialog summarization has many realtime applications. This can be used for summarizing IT support desk and call center conversations, transcripts of educational tutorial videos, legal transcriptions, meeting conference summary etc.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/GenAI_Using_LLM_UseCases)
+
 
 ##### Header 5
 
