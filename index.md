@@ -5,8 +5,8 @@ layout: default
 
 ## Machine Learning
 
-#### Bike Sharing Prediction
-This project develops and compares several regression models namely - linear regression with RFE, VIF, stats model p values, Ridge Regression, Lasso Regression to forecast shared bike demand for BoomBikes in the American market, analyzing key factors like weather, temperature, day of the week, season etc. By leveraging historical usage data, the model aims to help BoomBikes adapt to changing customer needs post-pandemic period.
+#### Bike Sharing Prediction - Using Regression
+This project develops and compares several regression models namely - linear regression with RFE, VIF, stats model p values, Ridge Regression, Lasso Regression to forecast shared bike demand for a Bike Renting Company in the American market, analyzing key factors like weather, temperature, day of the week, season etc. By leveraging historical usage data, the model aims to help the Company adapt to changing customer needs post-pandemic period.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/Bike_Rent_Prediction)
 
