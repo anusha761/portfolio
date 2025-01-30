@@ -1,12 +1,9 @@
----
-layout: default
----
 # Data Science Portfolio
 
 ## Machine Learning
 
-#### Bike Sharing Prediction - Using Regression
-This project develops and compares several regression models namely - linear regression with RFE, VIF, stats model p values, Ridge Regression, Lasso Regression to forecast shared bike demand for a Bike Renting Company in the American market, analyzing key factors like weather, temperature, day of the week, season etc. By leveraging historical usage data, the model aims to help the Company adapt to changing customer needs post-pandemic period.
+#### Bike Sharing Prediction Using Regression Techniques
+This project develops and evaluates multiple regression models—including Linear Regression with RFE, VIF, and p-values, as well as Ridge and Lasso Regression—to forecast shared bike demand for a Bike Rental Company in the U.S. market. By analyzing key factors such as weather, temperature, day of the week, and season, the model leverages historical usage data to help the company better adapt to shifting customer behaviors in the post-pandemic landscape, optimizing bike availability and operational efficiency.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/Bike_Rent_Prediction)
 
@@ -15,87 +12,13 @@ This project analyzes loan applications from Lending Club to identify factors co
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/LendingClubCaseStudy)
 
-#### Generative AI - Using Large Language Models For Dialog Summarization
-This project leverages 2 approaches - prompt engineering and fine tuning involvong PEFT for training Flan T5 LLM to perform dialog summarization. Dialog summarization has many realtime applications. This can be used for summarizing IT support desk and call center conversations, transcripts of educational tutorial videos, legal transcriptions, meeting conference summary etc.
+#### Generative AI - Dialog Summarization Using Large Language Models
+This project combines prompt engineering and fine-tuning using Parameter-Efficient Fine-Tuning (PEFT) to train the Flan T5 large language model (LLM) for dialog summarization. Dialog summarization has significant real-time applications, including summarizing IT support desk interactions, call center conversations, educational tutorial transcripts, legal documents, and meeting conferences. This solution enhances productivity and information accessibility in critical sectors.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/GenAI_Using_LLM_UseCases)
 
 
-##### Header 5
+#### Time-Series Analysis - Passenger Traffic Forecasting for Airline Resource Planning
+This project leverages time series analysis to forecast passenger traffic on a specific flight route, aiding in optimal resource allocation during peak periods. By incorporating SARIMA and SARIMAX models, it accounts for both historical data and the impact of promotional events on passenger numbers.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/TimeSeriesForecast_AirCraftPassengers)
