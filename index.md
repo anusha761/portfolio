@@ -7,7 +7,7 @@ This project develops and evaluates multiple regression models—including Linea
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/Bike_Rent_Prediction)
 
-<center><img src="assets/img/bike-rent-pred.jpg" width="30%" height="auto"/></center>
+<center><img src="assets/img/bike-rent-pred.jpg" width="50%" height="auto"/></center>
 
 #### Lending Club Case Study
 This project analyzes loan applications from Lending Club to identify factors contributing to loan defaults, focusing on key variables that signal default risk. The goal is to provide actionable insights for improving risk assessment and enhancing lending strategies.
@@ -19,11 +19,11 @@ This project combines prompt engineering and fine-tuning using Parameter-Efficie
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/GenAI_Using_LLM_UseCases)
 
-<center><img src="assets/img/genai-2.png" height="25%" width="20%"/></center>
+<center><img src="assets/img/genai-2.png" height="45%" width="40%"/></center>
 
 #### Time-Series Analysis - Passenger Traffic Forecasting for Airline Resource Planning
 This project leverages time series analysis to forecast passenger traffic on a specific flight route, aiding in optimal resource allocation during peak periods. By incorporating SARIMA and SARIMAX models, it accounts for both historical data and the impact of promotional events on passenger numbers.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/TimeSeriesForecast_AirCraftPassengers)
 
-<center><img src="assets/img/aircraft_time-series.jpg" width="30%" height="auto"/></center>
+<center><img src="assets/img/aircraft_time-series.jpg" width="50%" height="auto"/></center>
