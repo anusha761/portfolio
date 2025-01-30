@@ -19,7 +19,7 @@ This project combines prompt engineering and fine-tuning using Parameter-Efficie
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/GenAI_Using_LLM_UseCases)
 
-<center><img src="/assets/img/genai-2.png" height="35%" width="30%"/></center>
+<center><img src="/assets/img/genai-2.png" height="30%" width="25%"/></center>
 
 #### Time-Series Analysis - Passenger Traffic Forecasting for Airline Resource Planning
 This project leverages time series analysis to forecast passenger traffic on a specific flight route, aiding in optimal resource allocation during peak periods. By incorporating SARIMA and SARIMAX models, it accounts for both historical data and the impact of promotional events on passenger numbers.
