@@ -7,7 +7,7 @@ This project develops and evaluates multiple regression models—including Linea
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/Bike_Rent_Prediction)
 
-<center><img src="assets/images/bike-rent-pred.jpg"/></center>
+<center><img src="assets/images/anusha-photo.jpg"/></center>
 
 #### Lending Club Case Study
 This project analyzes loan applications from Lending Club to identify factors contributing to loan defaults, focusing on key variables that signal default risk. The goal is to provide actionable insights for improving risk assessment and enhancing lending strategies.
