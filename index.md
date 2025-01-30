@@ -10,10 +10,12 @@ This project develops and evaluates multiple regression models—including Linea
 <center><img src="assets/img/bike-rent-pred.jpg"/></center>
 
 
+
 #### Lending Club Case Study
 This project analyzes loan applications from Lending Club to identify factors contributing to loan defaults, focusing on key variables that signal default risk. The goal is to provide actionable insights for improving risk assessment and enhancing lending strategies.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/LendingClubCaseStudy)
+
 
 
 #### Generative AI - Dialog Summarization Using Large Language Models
@@ -22,6 +24,7 @@ This project combines prompt engineering and fine-tuning using Parameter-Efficie
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/GenAI_Using_LLM_UseCases)
 
 <center><img src="assets/img/gen-ai-3.jpg"/></center>
+
 
 
 #### Time-Series Analysis - Passenger Traffic Forecasting for Airline Resource Planning
