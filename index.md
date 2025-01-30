@@ -21,7 +21,7 @@ This project combines prompt engineering and fine-tuning using Parameter-Efficie
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/GenAI_Using_LLM_UseCases)
 
-<center><img src="assets/img/genai-2.png" height="45%" width="40%"/></center>
+<center><img src="assets/img/genai-2.png"/></center>
 
 
 #### Time-Series Analysis - Passenger Traffic Forecasting for Airline Resource Planning
@@ -29,4 +29,4 @@ This project leverages time series analysis to forecast passenger traffic on a s
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/TimeSeriesForecast_AirCraftPassengers)
 
-<center><img src="assets/img/aircraft_time-series.jpg" width="50%" height="auto"/></center>
+<center><img src="assets/img/aircraft_time-series.jpg"/></center>
