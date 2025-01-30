@@ -26,4 +26,4 @@ This project leverages time series analysis to forecast passenger traffic on a s
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/TimeSeriesForecast_AirCraftPassengers)
 
-<center><img src="/assets/img/aircaraft-time-series.jpg" width="30%" height="auto"/></center>
+<center><img src="/assets/img/aircraft-time-series.jpg" width="30%" height="auto"/></center>
