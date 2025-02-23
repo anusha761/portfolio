@@ -43,6 +43,7 @@ This project leverages time series analysis to forecast passenger traffic on a s
 <br>
 <br>
 <br>
+
 ## Blogs
 
 - [**Cosine Similarity For Natural Language Processing — From Words To Vectors**](https://medium.com/@chaudhuri.anusha1/cosine-similarity-for-natural-language-processing-from-words-to-vectors-2b5a9ddfec69)  
