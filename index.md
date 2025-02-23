@@ -8,6 +8,7 @@ This project analyzes Lending Club loan applications to identify factors that co
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/Lending-Club-Loan-Default-Analysis-Prediction)
 
+<center><img src="assets/img/lending-club.jpg"/></center>
 
 #### Bike Rental Demand Prediction Using Regression Models
 This project develops and evaluates multiple regression models—including Linear Regression with RFE, VIF, and p-values, as well as Ridge and Lasso Regression—to forecast shared bike demand for a Bike Rental Company. By analyzing key factors such as weather, temperature, day of the week, and season, the model leverages historical usage data to help the company better adapt to shifting customer behaviors in the post-pandemic landscape, optimizing bike availability and operational efficiency.
