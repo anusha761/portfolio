@@ -22,6 +22,7 @@ This project develops and evaluates multiple regression models—including Linea
 
 <br>
 <br>
+
 #### Generative AI - Dialog Summarization Using Large Language Models
 This project combines prompt engineering and fine-tuning using Parameter-Efficient Fine-Tuning (PEFT) to train the Flan T5 large language model (LLM) for dialog summarization. Dialog summarization has significant real-time applications, including summarizing IT support desk interactions, call center conversations, educational tutorial transcripts, legal documents, and meeting conferences. This solution enhances productivity and information accessibility in critical sectors.
 
@@ -31,6 +32,7 @@ This project combines prompt engineering and fine-tuning using Parameter-Efficie
 
 <br>
 <br>
+
 #### Time-Series Analysis - Passenger Traffic Forecasting for Airline Resource Planning
 This project leverages time series analysis to forecast passenger traffic on a specific flight route, aiding in optimal resource allocation during peak periods. By incorporating SARIMA and SARIMAX models, it accounts for both historical data and the impact of promotional events on passenger numbers.
 
