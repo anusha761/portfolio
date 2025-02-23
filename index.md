@@ -2,21 +2,19 @@
 
 ## Machine Learning
 
-#### Bike Sharing Prediction Using Regression Techniques
-This project develops and evaluates multiple regression models—including Linear Regression with RFE, VIF, and p-values, as well as Ridge and Lasso Regression—to forecast shared bike demand for a Bike Rental Company in the U.S. market. By analyzing key factors such as weather, temperature, day of the week, and season, the model leverages historical usage data to help the company better adapt to shifting customer behaviors in the post-pandemic landscape, optimizing bike availability and operational efficiency.
+
+#### Loan Risk Assessment And Loan Default Prediction Using PCA and Ensemble Models
+This project analyzes Lending Club loan applications to identify factors that contribute to loan defaults. It includes an in-depth exploratory data analysis (EDA) followed by the prediction of loan repayment outcomes (fully repaid vs. charged off). The model utilizes PCA for dimensionality reduction and machine learning ensemble models, such as Random Forest and XGBoost, to improve risk assessment and optimize lending strategies.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/Lending-Club-Loan-Default-Analysis-Prediction)
+
+
+#### Bike Rental Demand Prediction Using Regression Models
+This project develops and evaluates multiple regression models—including Linear Regression with RFE, VIF, and p-values, as well as Ridge and Lasso Regression—to forecast shared bike demand for a Bike Rental Company. By analyzing key factors such as weather, temperature, day of the week, and season, the model leverages historical usage data to help the company better adapt to shifting customer behaviors in the post-pandemic landscape, optimizing bike availability and operational efficiency.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/Bike_Rent_Prediction)
 
 <center><img src="assets/img/bike-rent-pred.jpg"/></center>
-
-
-
-#### Lending Club Case Study
-This project analyzes loan applications from Lending Club to identify factors contributing to loan defaults, focusing on key variables that signal default risk. The goal is to provide actionable insights for improving risk assessment and enhancing lending strategies.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/LendingClubCaseStudy)
-
-
 
 #### Generative AI - Dialog Summarization Using Large Language Models
 This project combines prompt engineering and fine-tuning using Parameter-Efficient Fine-Tuning (PEFT) to train the Flan T5 large language model (LLM) for dialog summarization. Dialog summarization has significant real-time applications, including summarizing IT support desk interactions, call center conversations, educational tutorial transcripts, legal documents, and meeting conferences. This solution enhances productivity and information accessibility in critical sectors.
