@@ -39,3 +39,13 @@ This project leverages time series analysis to forecast passenger traffic on a s
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/TimeSeriesForecast_AirCraftPassengers)
 
 <center><img src="assets/img/aircraft_time-series.jpg"/></center>
+
+<br>
+<br>
+<br>
+## Blogs
+
+- [**Cosine Similarity For Natural Language Processing — From Words To Vectors**](https://medium.com/@chaudhuri.anusha1/cosine-similarity-for-natural-language-processing-from-words-to-vectors-2b5a9ddfec69)  
+- [**Linear Regression — Starting From The Straight Line**](https://medium.com/@chaudhuri.anusha1/a-beginners-basic-guide-to-linear-regression-starting-from-the-straight-line-b73a2ea0128c)  
+- [**Demystifying Machine Learning Evaluation Metrics — Precision, Recall, ROC And More**](https://medium.com/@chaudhuri.anusha1/demystifying-machine-learning-evaluation-metrics-precision-recall-roc-and-more-e84d51b57766)  
+
