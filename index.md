@@ -18,7 +18,7 @@ This project automates IT support ticket classification using NLP techniques, co
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/IT_Ticket_Classification_Project)
 
-<center><img src="assets/img/lending-club.jpg"/></center>
+<center><img src="assets/img/ticket-classification.png"/></center>
 
 <br>
 <br>
