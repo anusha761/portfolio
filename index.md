@@ -13,6 +13,16 @@ This project analyzes Lending Club loan applications to identify factors that co
 <br>
 <br>
 
+#### IT Support Ticket Classification Using NLP And Deep Learning
+This project automates IT support ticket classification using NLP techniques, combining traditional machine learning models like Logistic Regression, Random Forest and deep learning architectures  like GRU, LSTM with pre-trained GloVe embeddings. The optimized LSTM model demonstrates high accuracy and F1-score, significantly improving ticket categorization efficiency for IT service management.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/IT_Ticket_Classification_Project)
+
+<center><img src="assets/img/lending-club.jpg"/></center>
+
+<br>
+<br>
+
 #### Bike Rental Demand Prediction Using Regression Models
 This project develops and evaluates multiple regression models—including Linear Regression with RFE, VIF, and p-values, as well as Ridge and Lasso Regression—to forecast shared bike demand for a Bike Rental Company. By analyzing key factors such as weather, temperature, day of the week, and season, the model leverages historical usage data to help the company better adapt to shifting customer behaviors in the post-pandemic landscape, optimizing bike availability and operational efficiency.
 
