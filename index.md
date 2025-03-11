@@ -23,6 +23,16 @@ This project automates IT support ticket classification using NLP techniques, co
 <br>
 <br>
 
+#### Time-Series Analysis - License Usage Forecasting for Enterprise Software Management
+This project focuses on forecasting Microsoft 365 Enterprise software license usage for Microsoft 365 by analyzing historical monthly data. The goal is to help organizations optimize software license procurement and renewal strategies by identifying seasonal trends in license demand. Various time series analysis techniques have been applied, and different models have been fitted to generate accurate forecasts.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/TimeSeries_SW_LicenseManagement)
+
+<center><img src="assets/img/aircraft_time-series.jpg"/></center>
+
+<br>
+<br>
+
 #### Bike Rental Demand Prediction Using Regression Models
 This project develops and evaluates multiple regression models—including Linear Regression with RFE, VIF, and p-values, as well as Ridge and Lasso Regression—to forecast shared bike demand for a Bike Rental Company. By analyzing key factors such as weather, temperature, day of the week, and season, the model leverages historical usage data to help the company better adapt to shifting customer behaviors in the post-pandemic landscape, optimizing bike availability and operational efficiency.
 
@@ -39,16 +49,6 @@ This project combines prompt engineering and fine-tuning using Parameter-Efficie
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/GenAI_Using_LLM_UseCases)
 
 <center><img src="assets/img/gen-ai-3.jpg"/></center>
-
-<br>
-<br>
-
-#### Time-Series Analysis - Passenger Traffic Forecasting for Airline Resource Planning
-This project leverages time series analysis to forecast passenger traffic on a specific flight route, aiding in optimal resource allocation during peak periods. By incorporating SARIMA and SARIMAX models, it accounts for both historical data and the impact of promotional events on passenger numbers.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/TimeSeriesForecast_AirCraftPassengers)
-
-<center><img src="assets/img/aircraft_time-series.jpg"/></center>
 
 <br>
 <br>
