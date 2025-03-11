@@ -28,7 +28,7 @@ This project focuses on forecasting Microsoft 365 Enterprise software license us
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/TimeSeries_SW_LicenseManagement)
 
-<center><img src="assets/img/license-time-series.jpg" style="height:70%; width:auto;"/></center>
+<center><img src="assets/img/license-time-series.jpg" style="height:70%; width:80%;"/></center>
 
 <br>
 <br>
