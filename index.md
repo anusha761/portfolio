@@ -23,8 +23,8 @@ This project automates IT support ticket classification using NLP techniques, co
 <br>
 <br>
 
-#### Time-Series Analysis - License Usage Forecasting for Enterprise Software Management
-This project focuses on forecasting Microsoft 365 Enterprise software license usage for Microsoft 365 by analyzing historical monthly data. The goal is to help organizations optimize software license procurement and renewal strategies by identifying seasonal trends in license demand. Various time series analysis techniques have been applied, and different models have been fitted to generate accurate forecasts.
+#### Time-Series Analysis - Forecasting Enterprise Software License Usage and Expenses
+This project has two parts, focusing on forecasting enterprise software license usage and expenses by analyzing historical monthly data. The goal is to help organizations proactively plan a cost effective budget, optimize software license procurement and allocation strategies by identifying seasonal trends in license demand and expenses. Various time series analysis techniques have been applied, and different models have been fitted like SARIMAX, LSTM to generate forecasts.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/TimeSeries_SW_LicenseManagement)
 
