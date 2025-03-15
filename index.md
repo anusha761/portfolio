@@ -14,7 +14,7 @@ This project analyzes Lending Club loan applications to identify factors that co
 <br>
 
 #### IT Support Ticket Classification Using NLP And Deep Learning
-This project automates IT support ticket classification using NLP techniques, combining traditional machine learning models like Logistic Regression, Random Forest and deep learning architectures  like GRU, LSTM with pre-trained GloVe embeddings. The optimized LSTM model demonstrates high accuracy and F1-score, significantly improving ticket categorization efficiency for IT service management.
+This project automates IT support ticket classification using NLP techniques, combining traditional machine learning models and deep learning architectures  like GRU, LSTM with pre-trained GloVe embeddings. The optimized LSTM model demonstrates high accuracy and F1-score, significantly improving ticket categorization efficiency for IT service management. Building on this, the project extends its approach by integrating Llama 3.1 LLM tuned with PEFT-based fine-tuning using LoRA. This extension showcases the ability to apply cutting-edge LLMs to real-world text classification problems, offering a more scalable solution for ticket triaging.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/IT_Ticket_Classification_Project)
 
