@@ -3,7 +3,7 @@
 ## Machine Learning
 
 #### Jet Engine Remaining Useful Life (RUL) Prediction Using Deep Learning
-This project automates IT support ticket classification using NLP techniques, combining traditional machine learning models and deep learning architectures  like GRU, LSTM with pre-trained GloVe embeddings. The optimized LSTM model demonstrates high accuracy and F1-score, significantly improving ticket categorization efficiency for IT service management. Building on this, the project extends its approach by integrating Llama 3.1 LLM tuned with PEFT-based fine-tuning using LoRA. This extension showcases the ability to apply cutting-edge LLMs to real-world text classification problems, offering a more scalable solution for ticket triaging.
+This project focuses on predicting how long a jet engine can continue to operate before maintenance is required — a critical task in aviation safety and operational efficiency. By capturing temporal patterns from multivariate sensor data, the model intelligently learns engine wear behavior and forecasts future degradation. The solution demonstrates the use of LSTM models for time-series analysis in predictive maintenance, enabling smarter, data-driven decision-making in aerospace engineering.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/JetEngineRULPrediction)
 
@@ -32,7 +32,7 @@ This project has two parts, focusing on forecasting enterprise software license 
 <br>
 <br>
 
-#### Loan Risk Assessment And Loan Default Prediction Using PCA and Ensemble Models
+#### Loan Risk Assessment And Loan Default Prediction Using Machine Learning
 This project analyzes Lending Club loan applications to identify factors that contribute to loan defaults. It includes an in-depth exploratory data analysis (EDA) followed by the prediction of loan repayment outcomes (fully repaid vs. charged off). The model utilizes PCA for dimensionality reduction and machine learning ensemble models, such as Random Forest and XGBoost, to improve risk assessment and optimize lending strategies.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/Lending-Club-Loan-Default-Analysis-Prediction)
@@ -42,8 +42,8 @@ This project analyzes Lending Club loan applications to identify factors that co
 <br>
 <br>
 
-#### IT Support Ticket Classification Using NLP, Deep Learning And LLMs
-This project automates IT support ticket classification using NLP techniques, combining traditional machine learning models and deep learning architectures  like GRU, LSTM with pre-trained GloVe embeddings. The optimized LSTM model demonstrates high accuracy and F1-score, significantly improving ticket categorization efficiency for IT service management. Building on this, the project extends its approach by integrating Llama 3.1 LLM tuned with PEFT-based fine-tuning using LoRA. This extension showcases the ability to apply cutting-edge LLMs to real-world text classification problems, offering a more scalable solution for ticket triaging.
+#### Predictive Maintenance in Automotive Engines Using Machine Learning
+This project aims to classify the health status of automotive engines based on real-time sensor data, helping identify engines at risk of failure before breakdowns occur. Through rigorous feature selection, feature engineering, model evaluation, and interpretable insights, the solution uncovers key indicators of engine stress and degradation. By applying machine learning models like Logistic Regression, XgBoost to powertrain diagnostics, the project demonstrates the potential of data-driven maintenance in enhancing vehicle reliability and performance.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/AutomotiveEngineHealthPrediction)
 
