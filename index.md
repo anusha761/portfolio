@@ -42,7 +42,7 @@ This project analyzes Lending Club loan applications to identify factors that co
 <br>
 <br>
 
-#### Predictive Maintenance in Automotive Engines Using Machine Learning
+#### Automotive Engines Health Classification For Predictive Maintenance
 This project aims to classify the health status of automotive engines based on real-time sensor data, helping identify engines at risk of failure before breakdowns occur. Through rigorous feature selection, feature engineering, model evaluation, and interpretable insights, the solution uncovers key indicators of engine stress and degradation. By applying machine learning models like Logistic Regression, XgBoost to powertrain diagnostics, the project demonstrates the potential of data-driven maintenance in enhancing vehicle reliability and performance.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/AutomotiveEngineHealthPrediction)
