@@ -2,13 +2,12 @@
 
 ## Machine Learning
 
+#### Jet Engine Remaining Useful Life (RUL) Prediction Using Deep Learning
+This project automates IT support ticket classification using NLP techniques, combining traditional machine learning models and deep learning architectures  like GRU, LSTM with pre-trained GloVe embeddings. The optimized LSTM model demonstrates high accuracy and F1-score, significantly improving ticket categorization efficiency for IT service management. Building on this, the project extends its approach by integrating Llama 3.1 LLM tuned with PEFT-based fine-tuning using LoRA. This extension showcases the ability to apply cutting-edge LLMs to real-world text classification problems, offering a more scalable solution for ticket triaging.
 
-#### Loan Risk Assessment And Loan Default Prediction Using PCA and Ensemble Models
-This project analyzes Lending Club loan applications to identify factors that contribute to loan defaults. It includes an in-depth exploratory data analysis (EDA) followed by the prediction of loan repayment outcomes (fully repaid vs. charged off). The model utilizes PCA for dimensionality reduction and machine learning ensemble models, such as Random Forest and XGBoost, to improve risk assessment and optimize lending strategies.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/JetEngineRULPrediction)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/Lending-Club-Loan-Default-Analysis-Prediction)
-
-<center><img src="assets/img/lending-club.jpg"/></center>
+<center><img src="assets/img/aircraft_time-series.jpg"/></center>
 
 <br>
 <br>
@@ -29,6 +28,26 @@ This project has two parts, focusing on forecasting enterprise software license 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/TimeSeries_SW_LicenseManagement)
 
 <center><img src="assets/img/license-time-series.jpg" style="height:70%; width:80%;"/></center>
+
+<br>
+<br>
+
+#### Loan Risk Assessment And Loan Default Prediction Using PCA and Ensemble Models
+This project analyzes Lending Club loan applications to identify factors that contribute to loan defaults. It includes an in-depth exploratory data analysis (EDA) followed by the prediction of loan repayment outcomes (fully repaid vs. charged off). The model utilizes PCA for dimensionality reduction and machine learning ensemble models, such as Random Forest and XGBoost, to improve risk assessment and optimize lending strategies.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/Lending-Club-Loan-Default-Analysis-Prediction)
+
+<center><img src="assets/img/lending-club.jpg"/></center>
+
+<br>
+<br>
+
+#### IT Support Ticket Classification Using NLP, Deep Learning And LLMs
+This project automates IT support ticket classification using NLP techniques, combining traditional machine learning models and deep learning architectures  like GRU, LSTM with pre-trained GloVe embeddings. The optimized LSTM model demonstrates high accuracy and F1-score, significantly improving ticket categorization efficiency for IT service management. Building on this, the project extends its approach by integrating Llama 3.1 LLM tuned with PEFT-based fine-tuning using LoRA. This extension showcases the ability to apply cutting-edge LLMs to real-world text classification problems, offering a more scalable solution for ticket triaging.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/AutomotiveEngineHealthPrediction)
+
+<center><img src="assets/img/automobile_p;roject.jpg"/></center>
 
 <br>
 <br>
