@@ -22,7 +22,7 @@ This project automates IT support ticket classification using NLP techniques, co
 <br>
 <br>
 
-#### SDLC-Q&A-AI-Assistant Using RAG , LangChain-Framework, LLM, Vector Database
+#### Gen AI - SDLC-Q&A-AI-Assistant Using RAG , LangChain-Framework, LLM, Vector Database
 This project showcases an AI-powered chatbot built using Retrieval-Augmented Generation (RAG), integrating LangChain, LLMs from HuggingFace, and ChromaDB as a vector database. Designed to answer domain-specific questions on the Software Development Lifecycle (SDLC), it combines intelligent retrieval with natural language generation to deliver accurate, context-aware responses, demonstrating the practical use of generative AI in enterprise IT settings.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/SDLC-Q-A-Assistant-using-RAG-Architecture-and-LangChain-Framework)
@@ -72,7 +72,7 @@ This project develops and evaluates multiple regression models—including Linea
 <br>
 <br>
 
-#### Generative AI - Dialog Summarization Using Large Language Models
+#### Gen AI - Dialog Summarization Using LLMs
 This project combines prompt engineering and fine-tuning using Parameter-Efficient Fine-Tuning (PEFT) to train the Flan T5 large language model (LLM) for dialog summarization. Dialog summarization has significant real-time applications, including summarizing IT support desk interactions, call center conversations, educational tutorial transcripts, legal documents, and meeting conferences. This solution enhances productivity and information accessibility in critical sectors.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/GenAI_Using_LLM_UseCases)
