@@ -1,6 +1,6 @@
-# Data Science Portfolio
+# Artificial Intelligence & Data Science Portfolio
 
-## Machine Learning
+## Machine Learning | Deep Learning & Time Series | Generative AI | Agentic AI
 
 #### Jet Engine Remaining Useful Life (RUL) Prediction Using Deep Learning
 This project focuses on predicting how long a jet engine can continue to operate before maintenance is required — a critical task in aviation safety and operational efficiency. By capturing temporal patterns from multivariate sensor data, the model intelligently learns engine wear behavior and forecasts future degradation. The solution demonstrates the use of LSTM models for time-series analysis in predictive maintenance, enabling smarter, data-driven decision-making in aerospace engineering.
