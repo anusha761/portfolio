@@ -27,7 +27,7 @@ This project demonstrates a GenAI-powered Q&A assistant for the Software Develop
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/SDLC-Q-A-Assistant-using-RAG-Architecture-and-LangChain-Framework)
 
-<center><img src="assets/img/aichatbot.jpg"/></center>
+<center><img src="assets/img/gen-ai-3.jpg"/></center>
 
 <br>
 <br>
@@ -37,7 +37,7 @@ This project implements a multi-domain Agentic RAG chatbot that intelligently ro
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/AgenticRAG_SDLC_AzureCloud_LngGrph)
 
-<center><img src="assets/img/aichatbot.jpg"/></center>
+<center><img src="assets/img/agenticai.jpg"/></center>
 
 <br>
 <br>
@@ -87,7 +87,7 @@ This project combines prompt engineering and fine-tuning using Parameter-Efficie
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/GenAI_Using_LLM_UseCases)
 
-<center><img src="assets/img/gen-ai-3.jpg"/></center>
+<center><img src="assets/img/genai-3.jpg"/></center>
 
 <br>
 <br>
