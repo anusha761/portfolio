@@ -22,10 +22,20 @@ This project automates IT support ticket classification using NLP techniques, co
 <br>
 <br>
 
-#### Gen AI - SDLC-Q&A-AI-Assistant Using RAG , LangChain-Framework, LLM, Vector Database
-This project showcases an AI-powered chatbot built using Retrieval-Augmented Generation (RAG), integrating LangChain, LLMs from HuggingFace, and ChromaDB as a vector database. Designed to answer domain-specific questions on the Software Development Lifecycle (SDLC), it combines intelligent retrieval with natural language generation to deliver accurate, context-aware responses, demonstrating the practical use of generative AI in enterprise IT settings.
+#### GenAI SDLC Assistant using RAG, LangChain, HuggingFace LLMs & ChromaDB
+This project demonstrates a GenAI-powered Q&A assistant for the Software Development Lifecycle (SDLC), built using Retrieval-Augmented Generation (RAG). It integrates LangChain, HuggingFace LLMs, and ChromaDB to deliver accurate, context-aware responses based on SDLC documentation. With a Streamlit frontend, this project showcases practical application of RAG for enterprise IT support and developer onboarding.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/SDLC-Q-A-Assistant-using-RAG-Architecture-and-LangChain-Framework)
+
+<center><img src="assets/img/aichatbot.jpg"/></center>
+
+<br>
+<br>
+
+#### Agentic RAG Chatbot for SDLC & Azure | Multi-Domain QA with LangGraph, OpenAI & ChromaDB
+This project implements a multi-domain Agentic RAG chatbot that intelligently routes queries to domain-specific pipelines for SDLC and Azure Cloud. Built with LangGraph, OpenAI GPT-3.5 Turbo, and dual ChromaDB vector stores, it enables precise, context-driven answers. The system features dynamic routing, autonomous reasoning, and a Streamlit UI—making it ideal for onboarding and cross-functional support in fast-growing tech teams.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/AgenticRAG_SDLC_AzureCloud_LngGrph)
 
 <center><img src="assets/img/aichatbot.jpg"/></center>
 
