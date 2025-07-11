@@ -31,7 +31,7 @@ This project demonstrates a GenAI-powered Q&A assistant for the Software Develop
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/SDLC-Q-A-Assistant-using-RAG-Architecture-and-LangChain-Framework)
 
-<center><img src="assets/img/gen-ai-3.jpg"/></center>
+<center><img src="assets/img/sdlc.jpg"/></center>
 
 <br>
 <br>
@@ -49,7 +49,7 @@ This project implements a multi-domain Agentic RAG Q&A assistant that intelligen
 #### Multi-Agent RAG Support System for Azure and AWS Users Using CrewAI
 The project showcases a multi-agent RAG-based support system that autonomously handles technical queries related to Azure and AWS cloud platforms. Built using CrewAI, it features intelligent agent collaboration—routing queries, retrieving context from cloud documentation, and refining responses into clear, email-style outputs. The architecture demonstrates role-based agent orchestration, autonomous reasoning, and retrieval-grounded generation, making it suitable for enterprise support, internal tooling, or cloud onboarding use cases.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/AgenticRAG_SDLC_AzureCloud_LngGrph)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/MultiAgent-Cloud-Support-System)
 
 <center><img src="assets/img/agenticai.jpg"/></center>
 
