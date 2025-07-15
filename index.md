@@ -6,6 +6,16 @@
 
 <br>
 
+#### AI-Powered Email Triage Decision Support System
+This project showcases an AI-powered Decision Support System that transforms enterprise email triage into an intelligent, automated workflow. It classifies emails by department, ranks them by priority, generates concise summaries, and recommends contextual actions — reducing manual effort and decision fatigue. Built using GPT-3.5, BART NLI, Hugging Face embeddings, ChromaDB, LangChain, and Streamlit, it combines cutting-edge NLP with a modular, scalable architecture. Designed for seamless integration into real-world enterprise systems, it enhances operational efficiency across departments. 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/AI-Decision-Support-Email-Triage)
+
+<center><img src="assets/img/aircraft_time-series.jpg"/></center>
+
+<br>
+<br>
+
 #### Jet Engine Remaining Useful Life (RUL) Prediction Using Deep Learning
 This project focuses on predicting how long a jet engine can continue to operate before maintenance is required — a critical task in aviation safety and operational efficiency. By capturing temporal patterns from multivariate sensor data, the model intelligently learns engine wear behavior and forecasts future degradation. The solution demonstrates the use of LSTM models for time-series analysis in predictive maintenance, enabling smarter, data-driven decision-making in aerospace engineering.
 
@@ -26,8 +36,8 @@ This project automates IT support ticket classification using NLP techniques, co
 <br>
 <br>
 
-#### GenAI SDLC Q&A Assistant using RAG, LangChain, HuggingFace LLMs & ChromaDB
-This project demonstrates a GenAI-powered Q&A assistant for the Software Development Lifecycle (SDLC), built using Retrieval-Augmented Generation (RAG). It integrates LangChain, HuggingFace LLMs, and ChromaDB to deliver accurate, context-aware responses based on SDLC documentation. With a Streamlit frontend, this project showcases practical application of RAG for enterprise IT support and developer onboarding.
+#### RAG Based SDLC Q&A Assistant using LangChain, OpenAI GPT & ChromaDB
+This project demonstrates a GenAI-powered Q&A assistant for the Software Development Lifecycle (SDLC) using Retrieval-Augmented Generation (RAG). It combines LangChain, OpenAI GPT, and ChromaDB with contextual memory to deliver accurate, real-time answers from SDLC documentation. Designed with a Streamlit interface, it streamlines developer onboarding and enhances enterprise IT support through intelligent, domain-aware assistance.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/SDLC-Q-A-Assistant-using-RAG-Architecture-and-LangChain-Framework)
 
