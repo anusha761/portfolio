@@ -7,7 +7,7 @@
 <br>
 
 #### AI-Powered Email Triage Decision Support System
-This project showcases an AI-powered Decision Support System that transforms enterprise email triage into an intelligent, automated workflow. It classifies emails by department, ranks them by priority, generates concise summaries, and recommends contextual actions — reducing manual effort and decision fatigue. Built using GPT-3.5, BART NLI, Hugging Face embeddings, ChromaDB, LangChain, and Streamlit, it combines cutting-edge NLP with a modular, scalable architecture. Designed for seamless integration into real-world enterprise systems, it enhances operational efficiency across departments. 
+This project showcases an AI-powered Decision Support System that transforms enterprise email triage into an intelligent, automated workflow. It classifies emails by department, ranks them by priority, generates concise summaries, and recommends contextual actions — reducing manual effort and decision fatigue. Built using GPT-3.5, BART NLI, Hugging Face embeddings, ChromaDB, LangChain, and Streamlit, it combines cutting-edge NLP with a modular, scalable architecture. A LangGraph-based implementation is also available to demonstrate structured workflow orchestration. Designed for seamless integration into real-world enterprise systems, it enhances operational efficiency across departments. 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/AI-Decision-Support-Email-Triage)
 
