@@ -11,7 +11,7 @@ This project showcases an AI-powered Decision Support System that transforms ent
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/AI-Decision-Support-Email-Triage)
 
-<center><img src="assets/img/aircraft_time-series.jpg"/></center>
+<center><img src="assets/img/email_dss.png"/></center>
 
 <br>
 <br>
