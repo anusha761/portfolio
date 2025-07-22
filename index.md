@@ -96,22 +96,22 @@ This project analyzes Lending Club loan applications to identify factors that co
 <br>
 <br>
 
-#### Bike Rental Demand Prediction Using Regression Models
-This project develops and evaluates multiple regression models—including Linear Regression with RFE, VIF, and p-values, as well as Ridge and Lasso Regression—to forecast shared bike demand for a Bike Rental Company. By analyzing key factors such as weather, temperature, day of the week, and season, the model leverages historical usage data to help the company better adapt to shifting customer behaviors in the post-pandemic landscape, optimizing bike availability and operational efficiency.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/Bike_Rent_Prediction)
-
-<center><img src="assets/img/bicycles-3521373_1280.jpg"/></center>
-
-<br>
-<br>
-
 #### Gen AI - Dialog Summarization Using LLMs
 This project combines prompt engineering and fine-tuning using Parameter-Efficient Fine-Tuning (PEFT) to train the Flan T5 large language model (LLM) for dialog summarization. Dialog summarization has significant real-time applications, including summarizing IT support desk interactions, call center conversations, educational tutorial transcripts, legal documents, and meeting conferences. This solution enhances productivity and information accessibility in critical sectors.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/GenAI_Using_LLM_UseCases)
 
 <center><img src="assets/img/genai-3.jpg"/></center>
+
+<br>
+<br>
+
+#### Bike Rental Demand Prediction Using Regression Models
+This project develops and evaluates multiple regression models—including Linear Regression with RFE, VIF, and p-values, as well as Ridge and Lasso Regression—to forecast shared bike demand for a Bike Rental Company. By analyzing key factors such as weather, temperature, day of the week, and season, the model leverages historical usage data to help the company better adapt to shifting customer behaviors in the post-pandemic landscape, optimizing bike availability and operational efficiency.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/Bike_Rent_Prediction)
+
+<center><img src="assets/img/bicycles-3521373_1280.jpg"/></center>
 
 <br>
 <br>
