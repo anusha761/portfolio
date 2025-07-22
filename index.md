@@ -16,36 +16,6 @@ This project showcases an AI-powered Decision Support System that transforms ent
 <br>
 <br>
 
-#### Jet Engine Remaining Useful Life (RUL) Prediction Using Deep Learning
-This project focuses on predicting how long a jet engine can continue to operate before maintenance is required — a critical task in aviation safety and operational efficiency. By capturing temporal patterns from multivariate sensor data, the model intelligently learns engine wear behavior and forecasts future degradation. The solution demonstrates the use of LSTM models for time-series analysis in predictive maintenance, enabling smarter, data-driven decision-making in aerospace engineering.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/JetEngineRULPrediction)
-
-<center><img src="assets/img/aircraft_time-series.jpg"/></center>
-
-<br>
-<br>
-
-#### IT Support Ticket Classification Using NLP, Deep Learning And LLMs
-This project automates IT support ticket classification using NLP techniques, combining traditional machine learning models and deep learning architectures  like GRU, LSTM with pre-trained GloVe embeddings. The optimized LSTM model demonstrates high accuracy and F1-score, significantly improving ticket categorization efficiency for IT service management. Building on this, the project extends its approach by integrating Llama 3.1 LLM tuned with PEFT-based fine-tuning using LoRA. This extension showcases the ability to apply cutting-edge LLMs to real-world text classification problems, offering a more scalable solution for ticket triaging.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/IT_Ticket_Classification_Project)
-
-<center><img src="assets/img/ticket-classification.png" style="width:80%; height:auto;"/></center>
-
-<br>
-<br>
-
-#### RAG Based SDLC Q&A Assistant using LangChain, OpenAI GPT & ChromaDB
-This project demonstrates a GenAI-powered Q&A assistant for the Software Development Lifecycle (SDLC) using Retrieval-Augmented Generation (RAG). It combines LangChain, OpenAI GPT, and ChromaDB with contextual memory to deliver accurate, real-time answers from SDLC documentation. Designed with a Streamlit interface, it streamlines developer onboarding and enhances enterprise IT support through intelligent, domain-aware assistance.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/SDLC-Q-A-Assistant-using-RAG-Architecture-and-LangChain-Framework)
-
-<center><img src="assets/img/sdlc.jpg"/></center>
-
-<br>
-<br>
-
 #### Agentic RAG Q&A Assistant for SDLC & Azure | Multi-Domain QA with LangGraph, OpenAI & ChromaDB
 This project implements a multi-domain Agentic RAG Q&A assistant that intelligently routes queries to domain-specific pipelines for SDLC and Azure Cloud. Built with LangGraph, OpenAI GPT-3.5 Turbo, and dual ChromaDB vector stores, it enables precise, context-driven answers. The system features dynamic routing, autonomous reasoning, and a Streamlit UI—making it ideal for onboarding and cross-functional support in fast-growing tech teams.
 
@@ -66,6 +36,26 @@ The project showcases a multi-agent RAG-based support system that autonomously h
 <br>
 <br>
 
+#### RAG Based SDLC Q&A Assistant using LangChain, OpenAI GPT & ChromaDB
+This project demonstrates a GenAI-powered Q&A assistant for the Software Development Lifecycle (SDLC) using Retrieval-Augmented Generation (RAG). It combines LangChain, OpenAI GPT, and ChromaDB with contextual memory to deliver accurate, real-time answers from SDLC documentation. Designed with a Streamlit interface, it streamlines developer onboarding and enhances enterprise IT support through intelligent, domain-aware assistance.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/SDLC-Q-A-Assistant-using-RAG-Architecture-and-LangChain-Framework)
+
+<center><img src="assets/img/sdlc.jpg"/></center>
+
+<br>
+<br>
+
+#### IT Support Ticket Classification Using NLP, Deep Learning And LLMs
+This project automates IT support ticket classification using NLP techniques, combining traditional machine learning models and deep learning architectures  like GRU, LSTM with pre-trained GloVe embeddings. The optimized LSTM model demonstrates high accuracy and F1-score, significantly improving ticket categorization efficiency for IT service management. Building on this, the project extends its approach by integrating Llama 3.1 LLM tuned with PEFT-based fine-tuning using LoRA. This extension showcases the ability to apply cutting-edge LLMs to real-world text classification problems, offering a more scalable solution for ticket triaging.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/IT_Ticket_Classification_Project)
+
+<center><img src="assets/img/ticket-classification.png" style="width:80%; height:auto;"/></center>
+
+<br>
+<br>
+
 #### Time-Series Analysis - Forecasting Enterprise Software License Usage and Expenses
 This project has two parts, focusing on forecasting enterprise software license usage and expenses by analyzing historical monthly data. The goal is to help organizations proactively plan a cost effective budget, optimize software license procurement and allocation strategies by identifying seasonal trends in license demand and expenses. Various time series analysis techniques have been applied, and different models have been fitted like SARIMAX, LSTM to generate forecasts.
 
@@ -76,12 +66,12 @@ This project has two parts, focusing on forecasting enterprise software license 
 <br>
 <br>
 
-#### Loan Risk Assessment And Loan Default Prediction Using Machine Learning
-This project analyzes Lending Club loan applications to identify factors that contribute to loan defaults. It includes an in-depth exploratory data analysis (EDA) followed by the prediction of loan repayment outcomes (fully repaid vs. charged off). The model utilizes PCA for dimensionality reduction and machine learning ensemble models, such as Random Forest and XGBoost, to improve risk assessment and optimize lending strategies.
+#### Jet Engine Remaining Useful Life (RUL) Prediction Using Deep Learning
+This project focuses on predicting how long a jet engine can continue to operate before maintenance is required — a critical task in aviation safety and operational efficiency. By capturing temporal patterns from multivariate sensor data, the model intelligently learns engine wear behavior and forecasts future degradation. The solution demonstrates the use of LSTM models for time-series analysis in predictive maintenance, enabling smarter, data-driven decision-making in aerospace engineering.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/Lending-Club-Loan-Default-Analysis-Prediction)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/JetEngineRULPrediction)
 
-<center><img src="assets/img/lending-club.jpg"/></center>
+<center><img src="assets/img/aircraft_time-series.jpg"/></center>
 
 <br>
 <br>
@@ -92,6 +82,16 @@ This project aims to classify the health status of automotive engines based on r
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/AutomotiveEngineHealthPrediction)
 
 <center><img src="assets/img/automobile_p;roject.jpg"/></center>
+
+<br>
+<br>
+
+#### Loan Risk Assessment And Loan Default Prediction Using Machine Learning
+This project analyzes Lending Club loan applications to identify factors that contribute to loan defaults. It includes an in-depth exploratory data analysis (EDA) followed by the prediction of loan repayment outcomes (fully repaid vs. charged off). The model utilizes PCA for dimensionality reduction and machine learning ensemble models, such as Random Forest and XGBoost, to improve risk assessment and optimize lending strategies.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/Lending-Club-Loan-Default-Analysis-Prediction)
+
+<center><img src="assets/img/lending-club.jpg"/></center>
 
 <br>
 <br>
