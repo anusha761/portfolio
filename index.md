@@ -43,6 +43,10 @@ This project demonstrates a GenAI-powered Q&A assistant for the Software Develop
 
 <center><img src="assets/img/sdlc.jpg"/></center>
 
+**Blogs:**
+[Cosine Similarity For Natural Language Processing — From Words To Vectors](https://medium.com/@chaudhuri.anusha1/cosine-similarity-for-natural-language-processing-from-words-to-vectors-2b5a9ddfec69)
+
+[Vector Stores Demystified: Unlocking Smarter Semantic Search with ChromaDB and More](https://medium.com/@chaudhuri.anusha1/vector-stores-demystified-unlocking-smarter-semantic-search-with-chromadb-and-more-7232446971a5)
 <br>
 <br>
 
@@ -93,7 +97,7 @@ This project analyzes Lending Club loan applications to identify factors that co
 
 <center><img src="assets/img/lending-club.jpg"/></center>
 
-** Blog: **
+**Blog:**
 [Demystifying Machine Learning Evaluation Metrics — Precision, Recall, ROC And More](https://medium.com/@chaudhuri.anusha1/demystifying-machine-learning-evaluation-metrics-precision-recall-roc-and-more-e84d51b57766)
 
 <br>
@@ -118,7 +122,6 @@ This project develops and evaluates multiple regression models—including Linea
 
 **Blog:**
 [Linear Regression — Starting From The Straight Line](https://medium.com/@chaudhuri.anusha1/a-beginners-basic-guide-to-linear-regression-starting-from-the-straight-line-b73a2ea0128c)
-*A beginner-friendly walkthrough of linear regression with visuals, use cases, and equations.*
 
 <br>
 <br>
