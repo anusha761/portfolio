@@ -126,14 +126,3 @@ This project develops and evaluates multiple regression models—including Linea
 
 <br>
 <br>
-<br>
-
-## Blogs
-
-
-<ul>
-  <li><a href="https://medium.com/@chaudhuri.anusha1/a-beginners-basic-guide-to-linear-regression-starting-from-the-straight-line-b73a2ea0128c" target="_blank" style="color: #1a0dab; text-decoration: underline;">Linear Regression — Starting From The Straight Line</a></li>
-  <li><a href="https://medium.com/@chaudhuri.anusha1/cosine-similarity-for-natural-language-processing-from-words-to-vectors-2b5a9ddfec69" target="_blank" style="color: #1a0dab; text-decoration: underline;">Cosine Similarity For Natural Language Processing — From Words To Vectors</a></li>
-  <li><a href="https://medium.com/@chaudhuri.anusha1/demystifying-machine-learning-evaluation-metrics-precision-recall-roc-and-more-e84d51b57766" target="_blank" style="color: #1a0dab; text-decoration: underline;">Demystifying Machine Learning Evaluation Metrics — Precision, Recall, ROC And More</a></li>
-</ul>
-
