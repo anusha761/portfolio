@@ -93,6 +93,9 @@ This project analyzes Lending Club loan applications to identify factors that co
 
 <center><img src="assets/img/lending-club.jpg"/></center>
 
+** Blog: **
+[Demystifying Machine Learning Evaluation Metrics — Precision, Recall, ROC And More](https://medium.com/@chaudhuri.anusha1/demystifying-machine-learning-evaluation-metrics-precision-recall-roc-and-more-e84d51b57766)
+
 <br>
 <br>
 
@@ -112,6 +115,9 @@ This project develops and evaluates multiple regression models—including Linea
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/Bike_Rent_Prediction)
 
 <center><img src="assets/img/bicycles-3521373_1280.jpg"/></center>
+
+** Blog: **
+[Linear Regression — Starting From The Straight Line](https://medium.com/@chaudhuri.anusha1/a-beginners-basic-guide-to-linear-regression-starting-from-the-straight-line-b73a2ea0128c)
 
 <br>
 <br>
