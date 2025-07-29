@@ -44,6 +44,7 @@ This project demonstrates a GenAI-powered Q&A assistant for the Software Develop
 <center><img src="assets/img/sdlc.jpg"/></center>
 
 **Blogs:**
+
 [Cosine Similarity For Natural Language Processing — From Words To Vectors](https://medium.com/@chaudhuri.anusha1/cosine-similarity-for-natural-language-processing-from-words-to-vectors-2b5a9ddfec69)
 
 [Vector Stores Demystified: Unlocking Smarter Semantic Search with ChromaDB and More](https://medium.com/@chaudhuri.anusha1/vector-stores-demystified-unlocking-smarter-semantic-search-with-chromadb-and-more-7232446971a5)
