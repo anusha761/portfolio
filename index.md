@@ -116,8 +116,9 @@ This project develops and evaluates multiple regression models—including Linea
 
 <center><img src="assets/img/bicycles-3521373_1280.jpg"/></center>
 
-** Blog: **
+**Blog:**
 [Linear Regression — Starting From The Straight Line](https://medium.com/@chaudhuri.anusha1/a-beginners-basic-guide-to-linear-regression-starting-from-the-straight-line-b73a2ea0128c)
+*A beginner-friendly walkthrough of linear regression with visuals, use cases, and equations.*
 
 <br>
 <br>
