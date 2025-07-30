@@ -26,26 +26,25 @@ This project implements a multi-domain Agentic RAG Q&A assistant that intelligen
 <br>
 <br>
 
+#### Automated Invoice Compliance Validation with Multi-LLM Orchestration and RAG
+This project demonstrates a lightweight Proof of Concept system that analyzes invoices of diverse formats to detect fraud, missing fields, and compliance risks. Drawing inspiration from Model Context Protocol (MCP) principles, it uses schema-enforced multi-LLM orchestration and Retrieval-Augmented Generation (RAG) to evaluate policy violations and generate corrective recommendations. Outputs are designed to be both machine-readable and human-friendly—laying the groundwork for future enterprise integration.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/MultiAgent-Cloud-Support-System)
+
+<center><img src="assets/img/invoice.jpg"/></center>
+
+**Blog:**
+
+[GPT-4o vs Amazon Textract: A Practical Guide to OCR Trade-offs in Real Projects](https://medium.com/@chaudhuri.anusha1/gpt-4o-vs-amazon-textract-a-practical-guide-to-ocr-trade-offs-in-real-projects-3c3ee5e8bfeb)
+<br>
+<br>
+
 #### Multi-Agent RAG Support System for Azure and AWS Users Using CrewAI 
 The project showcases a multi-agent RAG-based support system that autonomously handles technical queries related to Azure and AWS cloud platforms. Built using CrewAI, it features intelligent agent collaboration—routing queries, retrieving context from cloud documentation, and refining responses into clear, email-style outputs. The architecture demonstrates role-based agent orchestration, autonomous reasoning, and retrieval-grounded generation, making it suitable for enterprise support, internal tooling, or cloud onboarding use cases.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/MultiAgent-Cloud-Support-System)
 
 <center><img src="assets/img/agenticai.jpg"/></center>
-
-<br>
-<br>
-
-#### Automated Invoice Compliance Validation with Multi-LLM Orchestration and RAG
-This project demonstrates a lightweight Proof of Concept system that analyzes invoices of diverse formats to detect fraud, missing fields, and compliance risks. Drawing inspiration from Model Context Protocol (MCP) principles, it uses schema-enforced multi-LLM orchestration and Retrieval-Augmented Generation (RAG) to evaluate policy violations and generate corrective recommendations. Outputs are designed to be both machine-readable and human-friendly—laying the groundwork for future enterprise integration.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/MultiAgent-Cloud-Support-System)
-
-<center><img src="assets/img/agenticai.jpg"/></center>
-
-**Blog:**
-
-[GPT-4o vs Amazon Textract: A Practical Guide to OCR Trade-offs in Real Projects](https://medium.com/@chaudhuri.anusha1/gpt-4o-vs-amazon-textract-a-practical-guide-to-ocr-trade-offs-in-real-projects-3c3ee5e8bfeb)
 <br>
 <br>
 
