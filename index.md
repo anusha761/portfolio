@@ -2,7 +2,7 @@
 
 <br>
 
-## Machine Learning | Deep Learning & Time Series | Generative AI | Agentic AI
+### Machine Learning | Deep Learning & Time Series | Generative AI | Agentic AI
 
 <br>
 
