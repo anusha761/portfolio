@@ -137,6 +137,3 @@ This project combines prompt engineering and fine-tuning using Parameter-Efficie
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/GenAI_Using_LLM_UseCases)
 
 <center><img src="assets/img/genai-3.jpg"/></center>
-
-<br>
-<br>
