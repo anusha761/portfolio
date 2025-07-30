@@ -34,7 +34,6 @@ This project demonstrates a lightweight Proof of Concept system that analyzes in
 <center><img src="assets/img/invoice.jpg"/></center>
 
 **Blog:**
-
 [GPT-4o vs Amazon Textract: A Practical Guide to OCR Trade-offs in Real Projects](https://medium.com/@chaudhuri.anusha1/gpt-4o-vs-amazon-textract-a-practical-guide-to-ocr-trade-offs-in-real-projects-3c3ee5e8bfeb)
 <br>
 <br>
@@ -45,11 +44,14 @@ The project showcases a multi-agent RAG-based support system that autonomously h
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/MultiAgent-Cloud-Support-System)
 
 <center><img src="assets/img/agenticai.jpg"/></center>
+
+**Blog:**
+[Agentic Orchestration in RAG: Enhancing Accuracy and Validation for Multi-Domain Q&A and Technical Support Assistants](https://medium.com/@chaudhuri.anusha1/agentic-orchestration-in-rag-enhancing-accuracy-and-validation-for-multi-domain-q-a-and-technical-bc32abf33fac)
 <br>
 <br>
 
-#### RAG Based SDLC Q&A Assistant using LangChain, OpenAI GPT & ChromaDB
-This project demonstrates a GenAI-powered Q&A assistant for the Software Development Lifecycle (SDLC) using Retrieval-Augmented Generation (RAG). It combines LangChain, OpenAI GPT, and ChromaDB with contextual memory to deliver accurate, real-time answers from SDLC documentation. Designed with a Streamlit interface, it streamlines developer onboarding and enhances enterprise IT support through intelligent, domain-aware assistance.
+#### RAG Based SDLC Q&A Assistant with Contextual Memory using LangChain, OpenAI GPT & ChromaDB
+This project demonstrates a GenAI-powered Q&A assistant for the Software Development Lifecycle (SDLC) using Retrieval-Augmented Generation (RAG). It combines LangChain, OpenAI GPT, and ChromaDB enhanced with contextual memory and a two-stage retrieval refinement process — where initial retrievals are re-ranked through a secondary encoder layer for higher precision. Designed with a Streamlit interface, it streamlines developer onboarding and enhances enterprise IT support through intelligent, domain-aware assistance.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/SDLC-Q-A-Assistant-using-RAG-Architecture-and-LangChain-Framework)
 
