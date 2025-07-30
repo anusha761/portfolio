@@ -27,9 +27,9 @@ This project implements a multi-domain Agentic RAG Q&A assistant that intelligen
 <br>
 
 #### Automated Invoice Compliance Validation with Multi-LLM Orchestration and RAG
-This project demonstrates a lightweight Proof of Concept system that analyzes invoices of diverse formats to detect fraud, missing fields, and compliance risks. Drawing inspiration from Model Context Protocol (MCP) principles, it uses schema-enforced multi-LLM orchestration and Retrieval-Augmented Generation (RAG) to evaluate policy violations and generate corrective recommendations. Outputs are designed to be both machine-readable and human-friendly—laying the groundwork for future enterprise integration.
+This project demonstrates a lightweight Proof of Concept system that analyzes invoices of diverse formats to detect fraud, missing fields, and compliance risks. Drawing inspiration from Model Context Protocol principles, it uses schema-enforced multi-LLM orchestration and Retrieval-Augmented Generation (RAG) to evaluate policy violations and generate corrective recommendations. Outputs are designed to be both machine-readable and human-friendly—laying the groundwork for future enterprise integration.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/MultiAgent-Cloud-Support-System)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/Invoice-Compliance-Validation-Multi-LLM-RAG)
 
 <center><img src="assets/img/invoice.jpg"/></center>
 
