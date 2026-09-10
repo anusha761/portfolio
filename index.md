@@ -11,7 +11,11 @@ This project presents a modular, document-grounded question-answering RAG platfo
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/RetrievalFoundry---Modular-RAG-Platform-Document-QA-Application)
 
-<center><img src="assets/img/invoice.jpg"/></center>
+**Blogs:**
+
+[Cosine Similarity For Natural Language Processing — From Words To Vectors](https://medium.com/@chaudhuri.anusha1/cosine-similarity-for-natural-language-processing-from-words-to-vectors-2b5a9ddfec69)
+
+[Most RAG Failures Start at Ingestion — Not Retrieval: A Structure-Aware PDF Processing Architecture](https://medium.com/@chaudhuri.anusha1/most-rag-failures-start-at-ingestion-not-retrieval-a-structure-aware-pdf-processing-architecture-c2ec44d3a17f)
 
 <br>
 <br>
