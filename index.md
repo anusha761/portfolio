@@ -6,6 +6,16 @@
 
 <br>
 
+#### RetrievalFoundry---Modular-RAG-Platform-Document-QA-Application
+This project presents a modular, document-grounded question-answering RAG platform for PDF documents. It combines structure-aware ingestion, hybrid retrieval, reranking, table preservation, provenance tracking, and independent evaluation with a multi-document chat application that supports citations, conversation history, and answer regeneration.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/RetrievalFoundry---Modular-RAG-Platform-Document-QA-Application)
+
+<center><img src="assets/img/invoice.jpg"/></center>
+
+<br>
+<br>
+
 #### AI-Powered Email Triage Decision Support System
 This project showcases an AI-powered Decision Support System that transforms enterprise email triage into an intelligent, automated workflow. It classifies emails by department, ranks them by priority, generates concise summaries, and recommends contextual actions — reducing manual effort and decision fatigue. Built using GPT-3.5, BART NLI, Hugging Face embeddings, ChromaDB, LangChain, and Streamlit, it combines cutting-edge NLP with a modular, scalable architecture. A LangGraph-based implementation is also available to demonstrate structured workflow orchestration. Designed for seamless integration into real-world enterprise systems, it enhances operational efficiency across departments. 
 
@@ -26,18 +36,6 @@ This project implements a multi-domain Agentic RAG Q&A assistant that intelligen
 <br>
 <br>
 
-#### Automated Invoice Compliance Validation with Multi-LLM Orchestration and RAG
-This project demonstrates a lightweight Proof of Concept system that analyzes invoices of diverse formats to detect fraud, missing fields, and compliance risks. Drawing inspiration from Model Context Protocol principles, it uses schema-enforced multi-LLM orchestration and Retrieval-Augmented Generation (RAG) to evaluate policy violations and generate corrective recommendations. Outputs are designed to be both machine-readable and human-friendly—laying the groundwork for future enterprise integration.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/Invoice-Compliance-Validation-Multi-LLM-RAG)
-
-<center><img src="assets/img/invoice.jpg"/></center>
-
-**Blog:**
-[GPT-4o vs Amazon Textract: A Practical Guide to OCR Trade-offs in Real Projects](https://medium.com/@chaudhuri.anusha1/gpt-4o-vs-amazon-textract-a-practical-guide-to-ocr-trade-offs-in-real-projects-3c3ee5e8bfeb)
-<br>
-<br>
-
 #### Multi-Agent RAG Support System for Azure and AWS Users Using CrewAI 
 The project showcases a multi-agent RAG-based support system that autonomously handles technical queries related to Azure and AWS cloud platforms. Built using CrewAI, it features intelligent agent collaboration—routing queries, retrieving context from cloud documentation, and refining responses into clear, email-style outputs. The architecture demonstrates role-based agent orchestration, autonomous reasoning, and retrieval-grounded generation, making it suitable for enterprise support, internal tooling, or cloud onboarding use cases.
 
@@ -47,6 +45,9 @@ The project showcases a multi-agent RAG-based support system that autonomously h
 
 **Blog:**
 [Agentic Orchestration in RAG: Enhancing Accuracy and Validation for Multi-Domain Q&A and Technical Support Assistants](https://medium.com/@chaudhuri.anusha1/agentic-orchestration-in-rag-enhancing-accuracy-and-validation-for-multi-domain-q-a-and-technical-bc32abf33fac)
+
+**Blog:**
+[GPT-4o vs Amazon Textract: A Practical Guide to OCR Trade-offs in Real Projects](https://medium.com/@chaudhuri.anusha1/gpt-4o-vs-amazon-textract-a-practical-guide-to-ocr-trade-offs-in-real-projects-3c3ee5e8bfeb)
 <br>
 <br>
 
