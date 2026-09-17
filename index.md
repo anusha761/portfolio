@@ -6,22 +6,6 @@
 
 <br>
 
-#### RetrievalFoundry---Modular-RAG-Platform-Document-QA-Application
-This project presents a modular, document-grounded question-answering RAG platform for PDF documents. It combines structure-aware ingestion, hybrid retrieval, reranking, table preservation, provenance tracking, and independent evaluation with a multi-document chat application that supports citations, conversation history, and answer regeneration.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/anusha761/RetrievalFoundry---Modular-RAG-Platform-Document-QA-Application)
-
-**Demo Video:** [View the demo](https://drive.google.com/file/d/1iQsjGUUFfN20IjyZnHPhNwZpCf1MlMsF/view?usp=drive_link)
-
-**Blogs:**
-
-[Cosine Similarity For Natural Language Processing — From Words To Vectors](https://medium.com/@chaudhuri.anusha1/cosine-similarity-for-natural-language-processing-from-words-to-vectors-2b5a9ddfec69)
-
-[Most RAG Failures Start at Ingestion — Not Retrieval: A Structure-Aware PDF Processing Architecture](https://medium.com/@chaudhuri.anusha1/most-rag-failures-start-at-ingestion-not-retrieval-a-structure-aware-pdf-processing-architecture-c2ec44d3a17f)
-
-<br>
-<br>
-
 #### AI-Powered Email Triage Decision Support System
 This project showcases an AI-powered Decision Support System that transforms enterprise email triage into an intelligent, automated workflow. It classifies emails by department, ranks them by priority, generates concise summaries, and recommends contextual actions — reducing manual effort and decision fatigue. Built using GPT-3.5, BART NLI, Hugging Face embeddings, ChromaDB, LangChain, and Streamlit, it combines cutting-edge NLP with a modular, scalable architecture. A LangGraph-based implementation is also available to demonstrate structured workflow orchestration. Designed for seamless integration into real-world enterprise systems, it enhances operational efficiency across departments. 
 
@@ -67,6 +51,8 @@ This project demonstrates a GenAI-powered Q&A assistant for the Software Develop
 **Blogs:**
 
 [Cosine Similarity For Natural Language Processing — From Words To Vectors](https://medium.com/@chaudhuri.anusha1/cosine-similarity-for-natural-language-processing-from-words-to-vectors-2b5a9ddfec69)
+
+[Most RAG Failures Start at Ingestion — Not Retrieval: A Structure-Aware PDF Processing Architecture](https://medium.com/@chaudhuri.anusha1/most-rag-failures-start-at-ingestion-not-retrieval-a-structure-aware-pdf-processing-architecture-c2ec44d3a17f)
 
 [Vector Stores Demystified: Unlocking Smarter Semantic Search with ChromaDB and More](https://medium.com/@chaudhuri.anusha1/vector-stores-demystified-unlocking-smarter-semantic-search-with-chromadb-and-more-7232446971a5)
 <br>
